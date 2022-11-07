@@ -1,0 +1,8 @@
+Soft-skills:
+    1. First soft-skill
+    2. Second soft-skill
+    3. Third soft-skill 
+Hard-skills:
+    1. First hard-skill
+    2. Second hard-skill
+    3. Third hard-skill

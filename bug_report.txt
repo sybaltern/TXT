@@ -1,1 +1,11 @@
-
+1)ID: 1
+2)Title: Не работает Viber
+3)Priority: normal
+4)Severity: minor
+5)Environment: Google Chrome Windows 11
+6)Steps: 
+1. Зайти на сайт capital.com
+2. Выбрать Viber, в качестве средства связи с компанией
+3. Нажать на значок Viber
+7)Expected Result: Viber работает
+8)Actual Result: Viber не работает
